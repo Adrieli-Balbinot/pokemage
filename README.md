@@ -48,6 +48,7 @@ nível da magia, na tabela de fraquezas e nos atributos do oponente;
 ### :dart: Cálculo de acerto:
 
 O cálculo de acerto é feito da seguinte forma:
+
 ● Obtém-se as coordenadas iniciais do oponente em X e Y;
 
 ● Obtém-se a largura e a altura do oponente;
